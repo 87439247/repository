@@ -1,0 +1,7 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Dec 10 16:15:01 CST 2015
+dubbo-2.8.4.jar>=
+dubbo-2.8.4.pom>nexus=
+dubbo-2.8.4.jar>nexus=
+dubbo-2.8.4-sources.jar>=
+dubbo-2.8.4.pom>=

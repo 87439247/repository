@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata modelVersion="1.1.0">
+  <groupId>com.alibaba</groupId>
+  <artifactId>dubbo</artifactId>
+  <version>2.5.5.cat-SNAPSHOT</version>
+  <versioning>
+    <snapshot>
+      <timestamp>20160331.133749</timestamp>
+      <buildNumber>16</buildNumber>
+    </snapshot>
+    <lastUpdated>20160331133749</lastUpdated>
+    <snapshotVersions>
+      <snapshotVersion>
+        <extension>jar</extension>
+        <value>2.5.5.cat-20160331.133749-16</value>
+        <updated>20160331133749</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <extension>pom</extension>
+        <value>2.5.5.cat-20160331.133749-16</value>
+        <updated>20160331133749</updated>
+      </snapshotVersion>
+      <snapshotVersion>
+        <classifier>sources</classifier>
+        <extension>jar</extension>
+        <value>2.5.5.cat-20160331.133749-16</value>
+        <updated>20160331133749</updated>
+      </snapshotVersion>
+    </snapshotVersions>
+  </versioning>
+</metadata>
